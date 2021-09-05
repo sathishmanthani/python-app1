@@ -1,0 +1,2 @@
+[feed]
+gitrepo = https://github.com/sathishmanthani/pytest.git
