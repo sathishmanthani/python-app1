@@ -1,5 +1,5 @@
-from a import add
+from code import a
 
 def test_add():
-	assert add(1,2)==3
-	assert add(-3,-2)==-5
+	assert a.add(1,2)==3
+	assert a.add(-3,-2)==-5
